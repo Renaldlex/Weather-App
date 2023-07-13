@@ -1,0 +1,13 @@
+.card-img-top {
+  width: 142px;
+  height: 142px;
+  align-self: center;
+}
+.hide {
+  display: none;
+}
+.sun,
+.noun {
+  height: 20px;
+  width: 20px;
+}
